@@ -23,8 +23,8 @@ function App() {
           </a>
           <ul className="dropdown-menu">
             <li><a className="dropdown-item" href="/">Bold text</a></li>
-            <li><a className="dropdown-item" href="/"> ALL UPPERCASE</a></li>
-            <li><a className="dropdown-item" href="/">lowercase</a></li>
+            <li><a className="dropdown-item" href="/">ALL UPPERCASE</a></li>
+            <li><a className="dropdown-item" href="/">all lowercase</a></li>
             <li><hr className="dropdown-divider"/></li>
             <li><a className="dropdown-item" href="/">Something else here</a></li>
           </ul>
