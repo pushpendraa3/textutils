@@ -97,5 +97,6 @@ Navbar.propTypes = {
 }
 
 Navbar.defaultProps = {
-    hello: 'Default Bonjour'
+    // hello: 'Default Bonjour'
+    
 }
